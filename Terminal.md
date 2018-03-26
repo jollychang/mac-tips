@@ -1,2 +1,2 @@
-#case insensitive auto-complete  
+# case insensitive auto-complete  
 `echo "set completion-ignore-case On" >> ~/.inputrc`
