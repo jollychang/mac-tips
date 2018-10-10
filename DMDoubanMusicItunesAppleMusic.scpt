@@ -1,6 +1,6 @@
 tell application "iTunes"
 	-- get {name, artist, album} of current track
-	set ArtistAndAlbum to get {album, artist} of current track
+	set ArtistAndAlbum to get {album, album artist} of current track
 end tell
 
 tell application "Google Chrome"
