@@ -11,4 +11,4 @@ All in https://github.com/jollychang/dotfiles
 * [quicksilver/Quicksilver: Quicksilver Project Source](https://github.com/quicksilver/Quicksilver)
 * [gnachman/iTerm2: iTerm2 is a terminal emulator for Mac OS X that does amazing things\.](https://github.com/gnachman/iTerm2)
 * [niw/HapticKey: A simple utility application to trigger haptic feedback when tapping Touch Bar\.](https://github.com/niw/HapticKey)
-* [Pock](https://github.com/pigigaldi/Pock)
+* [Pock - Display macOS Dock in Touch Bar](https://github.com/pigigaldi/Pock)
