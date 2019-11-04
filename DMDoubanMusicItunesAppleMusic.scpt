@@ -1,9 +1,9 @@
-tell application "iTunes"
+tell application "Music"
 	-- get {name, artist, album} of current track
 	set ArtistAndAlbum to get {album, album artist} of current track
 end tell
 
-tell application "Google Chrome"
+tell application "Safari"
 	get ArtistAndAlbum
 	set DoubanMusicURL to "https://music.douban.com/subject_search?search_text=" & ArtistAndAlbum
 	open location DoubanMusicURL
